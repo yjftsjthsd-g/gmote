@@ -25,5 +25,5 @@ To setup the project using eclipse, simply checkout the entire project (all 4 pr
 Please try to follow the standard java coding conventions: http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html
 
 When setting up your editor, please use the following formatting rules:
-- Never use tabs, always use 2 spaces.
-- Set the default indentation size to 2.
+  * *Don't use tabs*, always use 2 spaces.
+  * Set the default *indentation size to 2 spaces*.
