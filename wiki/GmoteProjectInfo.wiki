@@ -20,6 +20,7 @@ This entire project was build using eclipse, which means the instructions will b
 
 To setup the project using eclipse, simply checkout the entire project (all 4 projects mentioned above). Then, from eclipse, select 'import', 'existing project into workspace', and import all 4 projects.
 
+Note: You'll notice that some of the files are not included in the project. This is because by default, the server project is setup for Windows and Linux development. There are a few files that are specific to Mac which break the other clients and are therefore excluded from the classpath. If you want to develop for Mac, simply edit the .classpath file to re-add the excluded mac files.
 
 = Coding Style =
 Please try to follow the standard java coding conventions: http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html
