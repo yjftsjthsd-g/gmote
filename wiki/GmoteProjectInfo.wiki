@@ -28,3 +28,13 @@ Please try to follow the standard java coding conventions: http://java.sun.com/d
 When setting up your editor, please use the following formatting rules:
   * *Don't use tabs*, always use 2 spaces.
   * Set the default *indentation size to 2 spaces*.
+
+= How do I contribute? =
+Send an email to hello@gmote.org requesting developer access. Once this has been granted, please follow these guidlines:
+
+1. Create a separate branch and commit your changes in that branch. You can commit as often as you want in that branch.
+2. Once you are finished with your changes, request a code review by one of the administrators. When the code has been reviewed, it will be merged into the main branch by the administrator who reviewed it.
+
+Details about starting a branch and code reviews can be found here: http://code.google.com/p/support/wiki/CodeReviews
+
+Thank you for contributing to Gmote!
